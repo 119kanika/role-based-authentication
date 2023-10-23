@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Credentials for login
 
-User: username -user, password- user123
-Admin: username- admin, password- admin123
+### User: username -user, password- user123
+### Admin: username- admin, password- admin123
 
 ## Other information
 1. About and contact component are used just to showcase in navbar.
