@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
+## Credentials for login
+
+User: username -user, password- user123
+Admin: username- admin, password- admin123
+
+## Other information
+1. About and contact component are used just to showcase in navbar.
+2. For now register button has no functionality.
+3. In the admin dashboard, on clicking edit or delete, it will show the result in console.
+4. Sidebar component is not displaying in the app.
+5. Styling is done using angular material and css.
+6. Routing for login button in the navbar is not working.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
